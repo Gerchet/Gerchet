@@ -6,7 +6,7 @@ And I'm a JavaScript Developer from Astana!
 <a href="https://telegram.im/@Cuba_rocket?lang=ru">
 <img align="left" alt="Konstantin Gerchet | Telegram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
 </a>
-<a href="mailto:Cuba.jr@mail.ru">
+<a href="mailto:konstantingerchet@gmail.com">
 <img align="left" alt="Konstantin Gerchet | Mail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mail_ValeJappo.png/640px-Mail_ValeJappo.png" />
 </a>
 
